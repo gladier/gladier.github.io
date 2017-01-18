@@ -14,7 +14,7 @@ url:  # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Australia/Sydney
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: Leonids
-  avatar: leonids-logo.png
+  avatar: 
   job: "A jekyll theme"
   bio: "A simple and awesome blog theme powered by jekyll."
   email: bburgess@gladier.net
