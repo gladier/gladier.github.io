@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Gladier
   avatar: 
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "Random Musings"
+  bio: 
   email: bburgess@gladier.net
   disqus-shortname:
   twitter: #username
