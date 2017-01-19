@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Gladier's Blog'
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: 
 url: https://www.gladier.net  # the base hostname & protocol for your site
 customurl: https://www.gladier.net
 
