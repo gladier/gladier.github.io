@@ -6,8 +6,8 @@
 title: Leonids
 email:
 description: A simple and awesome blog theme powered by jekyll.
-url:  # the base hostname & protocol for your site
-
+url: https://www.gladier.net  # the base hostname & protocol for your site
+customurl: https://www.gladier.net
 
 #
 ###################################
