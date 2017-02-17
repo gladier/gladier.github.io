@@ -7,7 +7,7 @@ comments: false
 ---
 
 
-{% highlight ruby %}
+{% highlight javascript %}
 resource "azurerm_storage_account" "test" {
     name = "accsa"
     resource_group_name = "${azurerm_resource_group.test.name}"
