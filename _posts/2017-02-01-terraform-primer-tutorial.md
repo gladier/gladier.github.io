@@ -7,7 +7,7 @@ comments: false
 ---
 
 
-{% highlight javascript %}
+{% highlight terraform %}
 resource "azurerm_storage_account" "test" {
     name = "accsa"
     resource_group_name = "${azurerm_resource_group.test.name}"
@@ -19,3 +19,4 @@ resource "azurerm_storage_account" "test" {
     }
 }
 {% endhighlight %}
+
